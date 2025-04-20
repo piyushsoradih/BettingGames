@@ -1,0 +1,1 @@
+betAmount is initially a number (10), but when you update it using event.target.value, it becomes a string.

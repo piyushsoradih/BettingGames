@@ -1,0 +1,28 @@
+#eleven {
+    background-image: url('../../../public/11.jpeg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 55vmin;
+    width: 55vmin;
+}
+#TwentyOne {
+    background-image: url('../../../public/21.jpeg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 55vmin;
+    width: 55vmin;
+}
+#ThirtyOne {
+    background-image: url('../../../public/31.jpeg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 55vmin;
+    width: 55vmin;
+}
+#FortyOne {
+    background-image: url('../../../public/41.jpeg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 55vmin;
+    width: 55vmin;
+}
